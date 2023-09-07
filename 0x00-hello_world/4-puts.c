@@ -1,9 +1,13 @@
-#:include <stdio.h>
+#include <stdio.h>
+
 /**
- * main - this is the main function
  *
- * Return: Always 0
- */
+ * main - Entry point
+ *
+ * Description: A C program that prints with function
+ *
+ * Return: Always 0 (Succsess)
+*/
 int main(void)
 {	
 puts("\"Programming is like building a multilingual puzzle");
