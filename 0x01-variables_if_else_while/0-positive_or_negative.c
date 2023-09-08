@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * Description: negative or positive validation
+ * Description: Determinate if a number is negative, zero or positive.
  *
  * Return : 0 (Success)
 */
