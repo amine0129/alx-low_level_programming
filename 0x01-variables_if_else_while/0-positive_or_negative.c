@@ -5,7 +5,7 @@
 /**
  * main - entry point
  *
- * Description: false or true validation
+ * Description: negative or positive validation
  *
  * Return : 0 (Success)
 */
