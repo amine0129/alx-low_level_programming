@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _is lower - function to check if
+ * _islower - function to check if
  * 		character is lowercase
  *
  * @c: checks input pf function
  *
- * Return: return 1 if `c` is lowercase
+ * Return: returns 1 if 'c' is lowercase
  * 		otherwise always 0 (Success)
 */
 
