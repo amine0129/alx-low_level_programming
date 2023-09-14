@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print numbers 1 - 100 followed bw new line
+ * main - print numbers 1 - 100 followed by a new line
  *	numbers that are multiplies of 3 print Fizz
  *	numbers that are multiplies of 5 print Buzz
  *	numbers that are multiplies of 3 and 5 print FizzBuzz
